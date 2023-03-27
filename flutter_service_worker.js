@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2e6e8a140e8fa86e1d8994a5a10b2a92",
-"index.html": "ef4d1c4bd11761d595e5a13d2e554e92",
-"/": "ef4d1c4bd11761d595e5a13d2e554e92",
-"main.dart.js": "90ad764a9be6aaa95f31c9f6cc86f06d",
+"index.html": "3a0673bc1d9ed86e8f00ce4ac121fd38",
+"/": "3a0673bc1d9ed86e8f00ce4ac121fd38",
+"main.dart.js": "83b948c602abc034e0d08963a1b55076",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "0ac0c28a0386815555b24fd8f6e421af",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -15,7 +15,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "b5945cb50f2555717c8daf372c8ac70a",
 "assets/AssetManifest.json": "ba50663df31ad3b645c9c04ef4af21d8",
-"assets/NOTICES": "a00bbb66e8422c45be0d666bb4fc66bc",
+"assets/NOTICES": "be13892636210cc9edc37c6fc4f15c10",
 "assets/FontManifest.json": "fa9ca053bece8f34fb6a3d6c08494fd0",
 "assets/fonts/space-grotesk/static/SpaceGrotesk-Light.ttf": "7e767880def9016b433bab4d6493d899",
 "assets/fonts/space-grotesk/static/SpaceGrotesk-Regular.ttf": "155c2e8af05b78017012be8ff2962731",
